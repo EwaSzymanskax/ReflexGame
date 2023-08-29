@@ -1,5 +1,5 @@
 # ReflexGame
-> The game that a player has to click on a green randomly selected square.
+> The purpose of this game is to click a green square.
 
 > Live at https://ewaszymanskax.github.io/ReflexGame/
 
